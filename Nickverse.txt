@@ -1,0 +1,130 @@
+--Execute this around 20 times for it to crash (FULLY CRASHED) thanks for using this script and subscribe to me on youtube because i dont serve ad links so lol
+
+while wait() do
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+
+wait()
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.SlimeBlaster,
+    [2] = Vector3.new(1, 1, 1)
+}
+
+game:GetService("ReplicatedStorage").Slime.Remotes.Slime.FiredBullet:FireServer(unpack(args))
+end
