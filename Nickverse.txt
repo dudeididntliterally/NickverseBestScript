@@ -1,4 +1,4 @@
---Execute this around 20 times for it to crash (FULLY CRASHED) thanks for using this script and subscribe to me on youtube because i dont serve ad links so lol
+--Hold the gun and execute this around 20 - 30 times for it to crash (FULLY CRASHED) thanks for using this script and subscribe to me on youtube because i dont serve ad links so lol
 
 while wait() do
 local args = {
